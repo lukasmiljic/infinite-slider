@@ -1,3 +1,2 @@
 # infinite-slider
-Factory Frontend zadatak
-Zadatak za Factory praksu
+Zadatak za Factory frontend praksu
